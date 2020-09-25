@@ -56,7 +56,7 @@ _Composer checks your system's capabilities and selects libraries based on your 
 
 ## Examples
 
-All examples can be found [here](https://github.com/mgp25/Instagram-API/tree/master/examples).
+All examples can be found [here](https://github.com/KNIGHTTH0R/ig-api/tree/master/examples).
 
 ## Code of Conduct
 
@@ -67,8 +67,6 @@ Please report any unacceptable behavior.
 ## How do I contribute
 
 If you would like to contribute to this project, please feel free to submit a pull request.
-
-Before you do, take a look at the [contributing guide](https://github.com/mgp25/Instagram-API/blob/master/CONTRIBUTING.md).
 
 ## Why did I make this API?
 
